@@ -1,8 +1,6 @@
 # Welcome on my GitHub profile ! 👋
 ### I'm Hugo, a 16 years old student from Belgium, self-taught, I'm passionate about computers since I was 5 years old, I code mainly on my free time.
 
-<div class="anim-object active" id="text-object" style="animation: 0.7s cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s 1 normal both running text-pop-up-top;">owo</div>
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EnPeignoir&count_private=true&include_all_commits=true&hide=stars,issues)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnPeignoir&layout=compact)
