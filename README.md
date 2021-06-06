@@ -1,6 +1,7 @@
 # Welcome on my GitHub profile ! 👋
 ### I'm Hugo, a 16 years old student from Belgium, self-taught, I'm passionate about computers since I was 5 years old, I code mainly on my free time.
 
+<div class="anim-object active" id="text-object" style="animation: 0.7s cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s 1 normal both running text-pop-up-top;">owo</div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EnPeignoir&count_private=true&include_all_commits=true&hide=stars,issues)
 
@@ -10,14 +11,10 @@
 # What i am currently using 
 <!-- Something more visual won't kill !!! --->
 
-#### Database
-- PostgreSQL
-- SQLite
-
 #### Code Editing
 - VSCode
 <details>
-  <summary>VSCode Extensions (Descending order by utility)</summary>
+  <summary>VSCode Extensions </summary> (Descending order by utility)
 
 - [Tabnine](https://www.tabnine.com)
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
@@ -38,8 +35,16 @@
 - SQL
 - *HTML/CSS (not learned yet)*
 - *JavaScript*
+- 
+#### Database
+- PostgreSQL
+- SQLite
 
-
+#### Material
+- Raspberry Pi 4B (act as DNS, VPN, Minecraft server and discord bot hosting, runs on Ubuntu Server arm64)
+- *Raspberry Pi 2B (unused)*
+- *Raspberry Pi 3B+*
+- *Arduino Uno + Starter Kit*
 
 <!--
 **EnPeignoir/EnPeignoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
