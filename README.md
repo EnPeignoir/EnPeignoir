@@ -35,7 +35,7 @@
 - SQL
 - *HTML/CSS (not learned yet)*
 - *JavaScript*
-- 
+
 #### Database
 - PostgreSQL
 - SQLite
